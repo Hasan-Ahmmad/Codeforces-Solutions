@@ -19,7 +19,6 @@ int main()
         }
 
         cout<<(st.size()*2)+(n-st.size())<<endl;
-    }
-    
+    }    
     return 0;
 }
