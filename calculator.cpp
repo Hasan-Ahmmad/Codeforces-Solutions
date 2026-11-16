@@ -33,5 +33,6 @@ int main(){
         num1 = ans;
 
         cout<< ans <<endl;
+        
     }
 }   
